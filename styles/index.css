@@ -1,0 +1,22 @@
+.class
+{
+	color:red;
+	background-color:black;
+	text-align:center;
+	font-weight:bold;
+}
+.list
+{
+	color:blue;
+	text-align:center;
+}
+body
+{
+	background-color:black;
+}
+img
+{
+	width:400px;
+	height:auto;
+	align:center;
+}
