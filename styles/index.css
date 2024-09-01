@@ -1,4 +1,4 @@
-.class
+.title
 {
 	color:red;
 	background-color:black;
@@ -7,8 +7,12 @@
 }
 .list
 {
-	color:blue;
 	text-align:center;
+	
+}
+.list ul li
+{
+	line-height:1.5;
 }
 body
 {
